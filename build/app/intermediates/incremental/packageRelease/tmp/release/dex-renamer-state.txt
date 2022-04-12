@@ -1,0 +1,4 @@
+#Tue Apr 12 11:37:35 IST 2022
+base.0=/home/rai/Desktop/baliza/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

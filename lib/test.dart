@@ -438,7 +438,7 @@ class _TestScreenState extends State<TestScreen> {
                       ? BoxDecoration(
                           borderRadius: BorderRadius.circular(40),
                           color: Colors.deepPurple.shade900)
-                      : null,
+                      : BoxDecoration(),
                 ),
               ),
             )
